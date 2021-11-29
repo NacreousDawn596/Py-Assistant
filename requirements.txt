@@ -1,0 +1,6 @@
+PREFS
+datetime
+gtts
+pyjokes
+requests
+wikipedia
