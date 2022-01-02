@@ -98,7 +98,7 @@ def guess_the_number(min, max):
             talk('less')
         else:
             talk("congraculations!")
-		return
+	    return
 
 
 def start():
